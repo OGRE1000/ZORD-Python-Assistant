@@ -1,6 +1,6 @@
 # AI Assistant using Python
 
-This repository contains a **mini AI Assistant project** developed using **Python**, created during my initial learning phase of the Python programming language.
+This repository contains a **Mini AI Assistant Project - ZORD** developed using **Python**, created during my initial learning phase of the Python programming language.
 
 The assistant is designed to perform various user-driven tasks through commands, including opening applications, sending emails and messages, and providing information using external APIs.
 
